@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\bin\Debug\net6.0\ExceptionFactorial.exe
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\bin\Debug\net6.0\ExceptionFactorial.deps.json
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\bin\Debug\net6.0\ExceptionFactorial.runtimeconfig.json
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\bin\Debug\net6.0\ExceptionFactorial.dll
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\bin\Debug\net6.0\ExceptionFactorial.pdb
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\ExceptionFactorial.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\ExceptionFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\ExceptionFactorial.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\ExceptionFactorial.AssemblyInfo.cs
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\ExceptionFactorial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\ExceptionFactorial.dll
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\refint\ExceptionFactorial.dll
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\ExceptionFactorial.pdb
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\ExceptionFactorial.genruntimeconfig.cache
+C:\Users\User\Desktop\Homework-Exception\Homewor-Factorial exception\ExceptionFactorial\ExceptionFactorial\obj\Debug\net6.0\ref\ExceptionFactorial.dll
